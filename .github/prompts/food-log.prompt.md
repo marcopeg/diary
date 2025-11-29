@@ -1,5 +1,5 @@
 ---
-name: food
+name: FoodLog
 description: one apple
 agent: agent
 ---
