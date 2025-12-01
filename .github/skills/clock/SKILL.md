@@ -1,6 +1,6 @@
 ---
 name: Clock
-description: Returns the current date time
+description: Returns the current date time, use it to know what is the current date and time.
 version: 1.0.0
 ---
 
